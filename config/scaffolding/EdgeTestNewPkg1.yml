@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeTestNewPkg1
+  gitServerName: t1
+  gitUrl: https://github.com/PoojaAnandGit/testGitUrl
+  gitUsername: PoojaAnandGit
+  gitToken: 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
+  gitBranch: master
